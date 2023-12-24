@@ -193,23 +193,23 @@ th {
   font-family: webflow-icons !important;
 }
 .w-icon-slider-right:before {
-  content: "î˜€";
+  content: "x";
 }
 .w-icon-slider-left:before {
-  content: "î˜";
+  content: "x";
 }
 .w-icon-nav-menu:before {
-  content: "î˜‚";
+  content: "x";
 }
 .w-icon-arrow-down:before,
 .w-icon-dropdown-toggle:before {
-  content: "î˜ƒ";
+  content: "x";
 }
 .w-icon-file-upload-remove:before {
-  content: "î¤€";
+  content: "x";
 }
 .w-icon-file-upload-icon:before {
-  content: "î¤ƒ";
+  content: "x";
 }
 * {
   box-sizing: border-box;
