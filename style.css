@@ -1988,7 +1988,7 @@ a {
 }
 .section.wide.img.about {
   height: 55rem;
-  background-image: url(./images/logo.png), url(./images/logo.png);
+  background-image: url(./images/logo\ -\ Copy.png), url(./images/logo.png);
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat, no-repeat;
   background-size: auto, 30rem;
